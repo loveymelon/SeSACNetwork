@@ -27,7 +27,7 @@ class ViewController: UIViewController {
             "X-Naver-Client-Id": "LIWV9A42tCmsJ6RxsKrO",
             "X-Naver-Client-Secret": "WFs6365KNB"
         ]
-        
+        //
         let parameters: Parameters = [
             "text": self.sourceTextView.text!,
             "source": "ko",
